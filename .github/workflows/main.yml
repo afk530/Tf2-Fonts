@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "TF2",
+    "previewText": "Aw hell nah Spunchbob",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/chalkboard.ttf",
+        "ggsans-Bold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/verdanab.ttf",
+        "ggsans-BoldItalic": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/TF2.ttf",
+        "ggsans-ExtraBold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/chalkboard.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/TF2.ttf",
+        "ggsans-Medium": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/BrushScriptStd.otf",
+        "ggsans-MediumItalic": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/PreussischeVI9Ag2SchattenLinie.ttf",
+        "ggsans-Normal": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/TF2secondary.ttf",
+        "ggsans-NormalItalic": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/tf2professor.ttf",
+        "ggsans-Semibold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/PreussischeVI9Ag2.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/TF2.ttf",
+        "NotoSans-Bold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/verdanab.ttf",
+        "NotoSans-ExtraBold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/chalkboard.ttf",
+        "NotoSans-Medium": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/BrushScriptStd.otf",
+        "NotoSans-Normal": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/TF2secondary.ttf",
+        "NotoSans-NormalItalic": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/tf2professor.ttf",
+        "NotoSans-Semibold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/PreussischeVI9Ag2.ttf",
+        "SourceCodePro-Semibold": "https://github.com/afk530/Tf2-links/raw/refs/heads/main/.github/PreussischeVI9Ag2.ttf"
+    }
+}
